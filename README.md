@@ -11,7 +11,7 @@
 **使用方法：**
 
 1.  下载V2Ray(下载链接)[https://itlanyan.com/v2ray-clients-download/ ]。
-2.  将节点信息（在本页面的proxy.txt）配置到你的客户端 (例如：Shadowsocks, V2Ray, Trojan 等)<br>
+2.  将节点信息（在本页面的proxy.txt，请全部复制）配置到你的客户端 (例如：Shadowsocks, V2Ray, Trojan 等)<br>
      V2Ray安卓版设置：点击右上角加号，点击从剪切板导入。
 4.  开始安全畅游网络！
 
