@@ -10,7 +10,7 @@
 
 **使用方法：**
 
-1.  [在此处获取节点信息](链接到你的节点信息文件或页面，例如一个文本文件或GitHub Pages)。
+1.  下载V2Ray[https://itlanyan.com/v2ray-clients-download/]。
 2.  将节点信息配置到你的客户端 (例如：Shadowsocks, V2Ray, Trojan 等)
      V2Ray安卓版设置：点击右上角加号，点击从剪切板导入。
 4.  开始安全畅游网络！
